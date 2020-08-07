@@ -5,6 +5,7 @@ import './App.css';
 function App() {
     const a = b + 2;
     const c = d + 3;
+    const d = e + 3;
     console.log('hhhhhhhhhhhhhhh');
     console.log('kkkkkkkk');
     return (
