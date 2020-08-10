@@ -1,4 +1,4 @@
 {
-    "*.+(js|jsx)": ["pretty-quick --staged", "eslint src/", "git add"],
+    "*.+(js|jsx)": ["pretty-quick --staged", "eslint src/ --fix", "git add"],
     "*.+(json|css|md)": ["prettier --write", "git add"]
 }
