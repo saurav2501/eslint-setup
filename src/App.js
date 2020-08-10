@@ -6,7 +6,8 @@ function App() {
     const a = b + 2;
     const c = d + 3;
     const d = hfhf + 3;
-    console.log('hhhhhhhhh');
+    const e = hbwhj + 3;
+    console.log('hhhhhhhhhhbwjvhb');
     console.log('kkkkkkkk');
     return (
         <div className="App">
