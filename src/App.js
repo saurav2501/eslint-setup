@@ -7,6 +7,7 @@ function App() {
     const c = d + 3;
     const d = hfhf + 3;
     const e = hbwhj + 3;
+    const f = ododd + 3;
     console.log('hhhhhjjbjhbhhhhhjsjgfbjhwfbhsbfsjbjsfbhjfhjsjhj');
     console.log('kkkkkwfwwkkfwksfwshjjkk');
     return (
